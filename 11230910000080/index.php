@@ -24,6 +24,7 @@
                 <li><a href="index.php" class="selected">Profil</a></li>
                 <li><a href="?module=galeri#pos">Galeri</a></li>
                 <li><a href="?module=jadwal#pos">Jadwal</a></li>
+                <li><a href="?module=register#pos">Register</a></li>
             </ul>
         </div>
 
@@ -44,5 +45,6 @@
         </div>
     </div>
 </body>
+
 
 </html>
