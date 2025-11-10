@@ -1,0 +1,1 @@
+<img src="konten/a.png" alt="Deskripsi gambar" width="300">
