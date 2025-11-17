@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "unpam_db";
+$dbname = "pdp_db";
 
 // Buat koneksi menggunakan MySQLi
 $conn = new mysqli($servername, $username, $password, $dbname);
