@@ -15,7 +15,7 @@
 <body>
     <div id="container">
         <div id="header">
-            <h1>LMS UIN JAKARTA</h1>
+            <h1></h1>
         </div>
 
         <div id="sidebar">
@@ -24,6 +24,8 @@
                 <li><a href="index.php" class="selected">Profil</a></li>
                 <li><a href="?module=galeri#pos">Galeri</a></li>
                 <li><a href="?module=jadwal#pos">Jadwal</a></li>
+                <li><a href="?module=register#pos">Register</a></li>
+                <li><a href="?module=member#pos">Daftar Member</a></li>
             </ul>
         </div>
 

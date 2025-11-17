@@ -12,8 +12,12 @@ body {
 #header {
     border: blue dashed 1px;
     background-color: lightskyblue;
-    padding: 10px;
+    padding: 10px;  
     height: 75px;
+    background-image:url(../images/uin.gif);
+    background-position: 40%;
+    height: 150px;  
+    background-size: cover ;
 }
 
 #header h1 {
